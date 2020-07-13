@@ -1,0 +1,14 @@
+@media print {
+    body{
+      visibility: hidden;
+    }
+    .ticket{
+      height:300px;
+      width: 300px;
+      outline: 5px solid black;
+      outline-offset: -6px;
+      background: white;
+      opacity: 1;
+      visibility:visible;
+  }
+}

@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.op__header{
+    height: 10em;
+    background: green;
+}
